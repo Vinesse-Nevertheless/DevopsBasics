@@ -3,4 +3,4 @@
 <h2> Good Luck! We are now done with the course.</h2>
 
 <h2> From Vanessa</h2>
-<h2> Thank you for reviewing this project, Anupriya and Dan</h2>
+<h2> Thank you for reviewing this project, Anupriya and Dan!</h2>
